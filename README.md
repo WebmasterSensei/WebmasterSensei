@@ -3,8 +3,8 @@
 - 👋 Konichiwa , watashi wa kento-desu, yorushiko onegaishimasu,   also called as kenjey          
 - 👀 I’m interested in ...   <Building a website, Playing video Games and more />
 - 🌱 I’m currently learning ... <Jquery, React, Vue, Laravel, and other more css framefworks />
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me fb name Ke Nt J ...
+- Im looking for a client! Im a freelancer by weekends
 
 ## Skills ??
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
