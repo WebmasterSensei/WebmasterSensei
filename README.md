@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WebmasterSensei&color=blue)
 ![contribution](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
