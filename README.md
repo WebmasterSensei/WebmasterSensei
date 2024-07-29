@@ -4,7 +4,7 @@
 - 👀 I’m interested in ...   <Building a website, Playing video Games and more />
 - 🌱 I’m currently learning ... <Jquery, React, Vue, Laravel, AntDesign,  and other more css framefworks /> still learning react next js
 - 📫 How to reach me fb name Ke Nt J ....
--  i da woooooo
+-  i da woooooo i da wooooooo
 - Im looking for a client! Im a freelancer by weekends
 - dont be a cunt
 ## Skills ??
