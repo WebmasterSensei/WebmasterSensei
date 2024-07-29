@@ -1,5 +1,5 @@
 
-
+- kanding
 - 👋 Konichiwa , watashi wa kento-desu, yorushiko onegaishimasu,   also called as kenjey          
 - 👀 I’m interested in ...   <Building a website, Playing video Games and more />
 - 🌱 I’m currently learning ... <Jquery, React, Vue, Laravel, AntDesign,  and other more css framefworks /> still learning react next js
