@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning ... <Jquery, React, Vue, Laravel, AntDesign,  and other more css framefworks /> still learning react next js
 - 📫 How to reach me fb name Ke Nt J ....
 -  i da woooooo i da wooooooo
+-  What is the best thing happen to you right now
 - Im looking for a client! Im a freelancer by weekends
 - dont be a cunt
 ## Skills ??
