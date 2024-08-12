@@ -1,4 +1,3 @@
-
 - kanding
 - 👋 Konichiwa , watashi wa kento-desu, yorushiko onegaishimasu,   also called as kenjey          
 - 👀 I’m interested in ...   <Building a website, Playing video Games and more />
