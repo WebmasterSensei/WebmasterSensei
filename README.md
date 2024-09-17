@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...   <Building a website, Playing video Games and more />
 - 🌱 I’m currently learning ... <Jquery, React, Vue, Laravel, AntDesign,  and other more css framefworks /> still learning react next js
 - 📫 How to reach me fb name Ke Nt J ....
+-  Also you can add me in my IG  - Kenji
 -  Be yourself no matter what!
 - dare mo shinjiru na
 ## Skills ??
