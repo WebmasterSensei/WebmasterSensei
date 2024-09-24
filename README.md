@@ -5,6 +5,7 @@
 -  Also you can add me in my IG  - Kenji
 -  Be yourself no matter what!
 - dare mo shinjiru na
+- I love you 24 7 365
 ## Skills ??
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
