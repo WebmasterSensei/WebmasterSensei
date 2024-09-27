@@ -1,12 +1,4 @@
-- 👋 Konichiwa , watashi wa kento-desu, yorushiko onegaishimasu,   also called as kenjey          
-- 👀 I’m interested in ...   <Building a website, Playing video Games and more />
-- 🌱 I’m currently learning ... <Jquery, React, Vue, Laravel, AntDesign,  and other more css framefworks /> still learning react next js
-- 📫 How to reach me fb name Ke Nt J ....
--  Also you can add me in my IG  - Kenji
--  Be yourself no matter what!
-- dare mo shinjiru na
-- I love you 24 7 365
-- kanding ni jessan
+-Im Looking for a Job!
 ## Skills ??
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
