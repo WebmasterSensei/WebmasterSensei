@@ -17,4 +17,4 @@ Im friendly
 ![Profile Views](https://komarev.com/ghpvc/?username=WebmasterSensei&color=blue)
 ![contribution](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
 
-![](https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif)
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" > 
