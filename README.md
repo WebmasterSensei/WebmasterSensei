@@ -2,7 +2,7 @@ Dare mo shinyou suru na! ---
 My Portfolio --- https://kennyjey1321.web.app
 
 <div>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZCwN4SGAyz8kiqmtq-kIMZHetRc0Vzow5w&s"/>
+ <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZCwN4SGAyz8kiqmtq-kIMZHetRc0Vzow5w&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEpMgKVsjVkWHimtzwM1UemmSct8ozaohTzeYX-VsnmKfT8WLMMswR_P9Mn1VNW06AY0&usqp=CAU)"/>
 </div>
 
 ## Skills ??
