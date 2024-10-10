@@ -1,4 +1,5 @@
 Dare mo shinyou suru na! --- 
+Trust No one!
 My Portfolio --- https://kennyjey1321.web.app
 
 <div>
