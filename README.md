@@ -1,8 +1,4 @@
-Dare mo shinyou suru na! --- 
-Trust No one!
-This is how the story goes
-
-My Portfolio --- https://kennyjey1321.web.app
+<p style="font-size: 15px; text-align: center;">Pov: When the code doesn't work, but there's no error</p>
 
 <img src="https://i.giphy.com/koUtwnvA3TY7C.webp" style="width: 100%"> 
 
