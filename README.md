@@ -5,7 +5,7 @@ This is how the story goes
 My Portfolio --- https://kennyjey1321.web.app
 
 <div>
-<iframe src="https://giphy.com/embed/koUtwnvA3TY7C" width="480" height="278" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C">via GIPHY</a></p>
+<img src="https://giphy.com/embed/koUtwnvA3TY7C" alt="image" />
 </div>
 
 ## Skills ??
