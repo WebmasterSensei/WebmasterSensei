@@ -1,5 +1,7 @@
 Dare mo shinyou suru na! --- 
 Trust No one!
+This is how the story goes
+
 My Portfolio --- https://kennyjey1321.web.app
 
 <div>
