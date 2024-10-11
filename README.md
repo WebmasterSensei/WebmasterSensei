@@ -5,6 +5,7 @@ This is how the story goes
 My Portfolio --- https://kennyjey1321.web.app
 
 <img src="https://i.giphy.com/koUtwnvA3TY7C.webp" > 
+
 ## Skills ??
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
