@@ -1,4 +1,4 @@
-<p style="font-size: 15px; text-align: center;">Pov: When the code doesn't work, but there's no error</p>
+<div style="font-size: 15px; text-align: center;">Pov: When the code doesn't work, And there's no error</div>
 
 <img src="https://i.giphy.com/koUtwnvA3TY7C.webp" style="width: 100%"> 
 
