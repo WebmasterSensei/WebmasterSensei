@@ -1,6 +1,6 @@
 <div style="font-size: 15px; text-align: center;">Pov: When the code doesn't work, And there's no error</div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl3eWI2OWM3Zms3djM3ajJqdGp6MHphdHQ5Z3ozbTMyZ3FyeHU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvMHwFYLVHlZe/giphy.webp" style="width: 400px; height:400px; border-radius: 50px;"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl3eWI2OWM3Zms3djM3ajJqdGp6MHphdHQ5Z3ozbTMyZ3FyeHU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvMHwFYLVHlZe/giphy.webp" style="width: 100%; height:400px; border-radius: 50px;"> 
 
 ## Skills ??
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
