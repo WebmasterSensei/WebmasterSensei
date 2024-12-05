@@ -2,6 +2,7 @@
 
 <Kenjey/>
 Trust No one
+Never Never have i ever!
 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl3eWI2OWM3Zms3djM3ajJqdGp6MHphdHQ5Z3ozbTMyZ3FyeHU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvMHwFYLVHlZe/giphy.webp" style="width: 100%; height:400px; border-radius: 50px;"> 
