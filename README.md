@@ -1,4 +1,4 @@
-<div style="font-size: 15px; text-align: center;">Pov: When the code doesn't work, And there's no error</div>
+<div style="font-size: 15px; text-align: center;">Pov: When the code doesn't work, And there's no error</div
 
 <Kenjey/>
 Trust No one
