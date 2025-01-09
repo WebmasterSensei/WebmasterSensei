@@ -10,8 +10,8 @@
 
 ## Connect with Me  
 - 🐙 GitHub: [WebmasterSensei](https://github.com/WebmasterSensei)  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 📫 Email: [Your Email Address](mailto:k2khenzkiemeliodas@gmail.com)  
+- 💼 LinkedIn: [Linked in](#)  
+- 📫 Email: [K2khenzkie](mailto:k2khenzkiemeliodas@gmail.com)  
 
 ## Hobbies  
 - 🌐 Learning new tech  
