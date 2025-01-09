@@ -1,6 +1,25 @@
-Ako si Kenji
+# Hi there 👋, I'm Kenji! 
+
+## About Me  
+- 🔭 I’m currently working on exciting projects like the **Gift Check Monitoring System**.  
+- 🌱 I’m learning multiple programming languages, mastering the art of development.  
+- 💻 Proficient in Laravel, Vue.js, and Ant Design Vue.  
+- ⚡ Fun Fact: You can’t hum while holding your nose! !  
+- 📜 Love challenging projects and solving real-world problems.  
 
 
+## Connect with Me  
+- 🐙 GitHub: [WebmasterSensei](https://github.com/WebmasterSensei)  
+- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 📫 Email: [Your Email Address](mailto:k2khenzkiemeliodas@gmail.com)  
+
+## Hobbies  
+- 🌐 Learning new tech  
+- 🚀 Innovating with code  
+- 🎮 Gaming and tinkering with projects  
+
+---
+"Code with passion and purpose." 
 
 ## Skills ??
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
