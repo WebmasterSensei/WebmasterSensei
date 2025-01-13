@@ -17,6 +17,7 @@
 - 🌐 Learning new tech  
 - 🚀 Innovating with code  
 - 🎮 Gaming and tinkering with projects  
+- 🎮 Gaming and Watching animes 
 
 ---
 "Code with passion and purpose." 
