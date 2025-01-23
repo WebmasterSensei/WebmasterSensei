@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kent J also known as Kenji Yorishiku onegaishimashu! 
+# Hi there 👋, I'm Kent J also known as Kenji Yorishiku onegaishimashu! g
 Haluu! Are you sure about that!
 
 ## About Me  
