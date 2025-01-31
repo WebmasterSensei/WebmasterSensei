@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kent J also known as Kenji Yorishiku onegaishimashu!
+# Hi there 👋, I'm Kent J also known as Kenji Yorishiku onegaishimashu! --
 - -
 ## About Me  
 - 🔭 I’m currently working on exciting projects like the **Gift Check Monitoring System**.  
