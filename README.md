@@ -17,7 +17,7 @@
 - 🌐 Learning new tech  
 - 🚀 Innovating with code  
 - 🎮 Gaming and tinkering with projects  
-- 🎮 Gaming and Watching animes  yeah
+- 🎮 Gaming and Watching animes  yeah s
 - 
 
 ---
