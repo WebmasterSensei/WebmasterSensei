@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kent J also known as Kenji Yorishiku onegaishimashu!
 - - -
-## About Me  
+## About Me  ys
 - 🔭 I’m currently working on exciting projects like the **Gift Check Monitoring System**.  
 - 🌱 I’m learning multiple programming languages, mastering the art of development.  
 - 💻 Proficient in Laravel, Vue.js, and Ant Design Vue.  
