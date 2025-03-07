@@ -6,7 +6,7 @@
 - 💻 Proficient in Laravel, Vue.js, and Ant Design Vue.  
 - ⚡ Fun Fact: You can’t hum while holding your nose! !  
 - 📜 Love challenging projects and solving real-world problems.
-- - If i snap my finger " You will forget that you ever gay! ss"
+- - If i snap my finger " You will forget that you ever gay! ss" helklow eolr
 
 
 ## Connect with Me  
