@@ -1,48 +1,47 @@
-# Konnichiwa there 👋, I'm Kent J also known as Kenji Yorishiku onegaishimashu!
-- - -
-## About Me  ys
-- 🔭 I’m currently working on exciting projects like the **Gift Check Monitoring System**.  
-- 🌱 I’m learning multiple programming languages, mastering the art of development.  
-- 💻 Proficient in Laravel, Vue.js, and Ant Design Vue.  
-- ⚡ Fun Fact: You can’t hum while holding your nose! !  
-- 📜 Love challenging projects and solving real-world problems.
-- - If i snap my finger " You will forget that you ever gay! ss" helklow eolr
+# Hi there, I'm [Your Name]! 👋
 
-
-## Connect with Me  
-- 🐙 GitHub: [WebmasterSensei](https://github.com/WebmasterSensei)  
-- 💼 LinkedIn: [Linked in](#)  
-- 📫 Email: [K2khenzkie](mailto:k2khenzkiemeliodas@gmail.com)  
-
-## Hobbies  
-- 🌐 Learning new tech  
-- 🚀 Innovating with code  
-- 🎮 Gaming and tinkering with projects  
-- 🎮 Gaming and Watching animes  yeah s
-- 
+🚀 **Full-Stack Developer** | 🌍 **Based in [Your Location]**  
+💻 Passionate about building scalable web applications and solving real-world problems.  
+📚 Constantly learning and exploring new technologies.
 
 ---
-"Code with passion and purpose." hello world
 
+### **🛠️ Technologies & Tools**
 
-## Skills ??
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=WebmasterSensei&color=blue)
-![contribution](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
+### **📂 Featured Projects**
 
+- **[Project Name 1](https://github.com/yourusername/project1)**  
+  A brief description of the project. Built with [Tech Stack].
 
- -My Portfolio https://kennyjey1321.web.app/
- -also follow me on ig @Kenji
- -Hello world!
- -Just Dance
+- **[Project Name 2](https://github.com/yourusername/project2)**  
+  A brief description of the project. Built with [Tech Stack].
+
+---
+
+### **📈 GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+### **📫 Let's Connect!**
+
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.com)
+- [Email](mailto:youremail@example.com)
+
+---
+
+### **💡 Fun Fact**
+
+I once wrote a script that automated my morning coffee routine! ☕
+
