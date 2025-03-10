@@ -22,17 +22,17 @@
 
 ### **📂 Featured Projects**
 
-- **[Project Name 1](https://github.com/webmastersensei/ccm)**  
+- **[CCM](https://github.com/WebmasterSensei/ccm)**  
   A brief description of the project. Built with [Tech Stack].
 
-- **[Project Name 2](https://github.com/webmastersensei/gc)**  
+- **[Gift-Check](https://github.com/webmastersensei/gc)**  
   A brief description of the project. Built with [Tech Stack].
 
 ---
 
 ### **📈 GitHub Stats**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=webmastersensei&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebmasterSensei&show_icons=true&theme=radical)
 
 ---
 
