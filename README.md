@@ -1,6 +1,6 @@
 # Hi there, I'm [Kent Jey]! 👋
 
-🚀 **Full-Stack Developer** | 🌍 **Based in [Somewhere in Bohol]**  
+🚀 **Full-Stack/Snack Developer** | 🌍 **Based in [Somewhere in Bohol]**  
 💻 Passionate about building scalable web applications and solving real-world problems.  
 📚 Constantly learning and exploring new technologies.
 
