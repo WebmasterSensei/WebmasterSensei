@@ -23,10 +23,10 @@
 ### **📂 Featured Projects**
 
 - **[CCM](https://github.com/WebmasterSensei/ccm)**  
-  A brief description of the project. Built with [Tech Stack].
+  A System that Monitors the Checks Bet you dont have that [Tech Stack].
 
-- **[Gift-Check](https://github.com/webmastersensei/gc)**  
-  A brief description of the project. Built with [Tech Stack].
+- **[Gift-Check](https://github.com/IT-Sysdev-2023/gift-check)**  
+  Way chance [Tech Stack].
 
 ---
 
