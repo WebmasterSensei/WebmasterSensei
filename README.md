@@ -38,7 +38,7 @@
 
 ### **📫 Let's Connect!**
 
-- [Portfolio](https://github.com/webmastersensei)
+- [Portfolio](https://webmastersensei.github.io/)
 - [Email](mailto:webmasteraturservice@gmail.com)
 
 ---
