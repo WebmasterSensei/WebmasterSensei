@@ -45,6 +45,7 @@
 
 ### **💡 Fun Fact**
 
-I once wrote a script that automated my morning coffee routine! ☕;
-When the code is running, Please dont configure it!
+-- I once wrote a script that automated my morning coffee routine! ☕;
+
+-- When the code is running, Please dont configure it!
 
