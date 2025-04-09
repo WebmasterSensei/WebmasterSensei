@@ -28,7 +28,7 @@
   A System that Monitors the Checks Bet you dont have that [Tech Stack].
 
 - **[Gift-Check](https://github.com/IT-Sysdev-2023/gift-check)**  
-  Way chance [Tech Stack].
+  Way chance Gc System [Tech Stack].
 
 ---
 
